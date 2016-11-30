@@ -175,11 +175,6 @@
 		</dependency>
 	</dependencies>
 <repositories>
-<repository>
-			<id>artifactory</id>
-			<name>Artifactory</name>
-			<url>http://localhost:8081/artifactory/webapp/#/artifacts/browse/tree/General/ext-release-local</url>
-		</repository>
     <repository>
         <id>central</id>
         <url>http://localhost:8081/artifactory/libs-release</url>
