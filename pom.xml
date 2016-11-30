@@ -206,4 +206,11 @@
         </releases>
     </pluginRepository>
 </pluginRepositories>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>IBM529-LR4PEC8-releases</name>
+        <url>http://localhost:8081/artifactory/ext-release-local</url>
+    </repository>
+</distributionManagement>
 </project>
