@@ -189,7 +189,7 @@
 		<repository>
 			<id>artifactory</id>
 			<name>Artifactory</name>
-			<url>http://localhost:8081/artifactory</url>
+			<url>http://localhost:8081/artifactory/webapp/#/artifacts/browse/tree/General/ext-release-local</url>
 		</repository>
 	</repositories>
 </project>
