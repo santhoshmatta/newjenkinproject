@@ -179,6 +179,10 @@
 			<name>Artifactory</name>
 			<url>http://localhost:8081/artifactory/</url>
 		</repository>
+	<repository>
+      <id>mvnrepository</id>
+      <url>http://mvnrepository.com/artifact/</url>
+    </repository>
 	</repositories>
 <distributionManagement>
     <repository>
