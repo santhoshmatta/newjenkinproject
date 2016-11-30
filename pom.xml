@@ -185,4 +185,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<repositories>
+		<repository>
+			<id>artifactory</id>
+			<name>Artifactory</name>
+			<url>http://localhost:8081/artifactory</url>
+		</repository>
+	</repositories>
 </project>
